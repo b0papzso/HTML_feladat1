@@ -1,0 +1,23 @@
+#zold{
+    background-color: green;
+}
+
+#sarga{
+    background-color: yellow;
+}
+
+#lila{
+    background-color: purple;
+}
+
+#nagydiv{
+    display: flex;
+    width: 100%;
+    height: 300px;
+    flex-direction: row;
+}
+
+#zold, #sarga, #lila{
+    width: 100%;
+    height: 300px;
+}

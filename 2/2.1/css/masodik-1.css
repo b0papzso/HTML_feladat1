@@ -1,0 +1,27 @@
+#zold{
+    background-color: green;
+    display: none;
+}
+
+#sarga{
+    background-color: yellow;
+    display: none;
+}
+
+#lila{
+    background-color: purple;
+}
+
+#nagydiv{
+    display: flex;
+    width: 800px;
+    height: 300px;
+    background-color: yellow;
+    align-items: center;
+    justify-content: center;
+}
+
+#zold, #sarga, #lila{
+    width: 100px;
+    height: 100px;
+}
